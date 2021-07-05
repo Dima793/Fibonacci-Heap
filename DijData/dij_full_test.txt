@@ -1,0 +1,126 @@
+Fib:	0.000033
+p[0] = 3,   dist[0] = 2.000000
+p[1] = 1,   dist[1] = 0.000000
+p[2] = 1,   dist[2] = 1.000000
+p[3] = 1,   dist[3] = 1.000000
+p[4] = 3,   dist[4] = 2.000000
+
+priority_queue:	0.000009
+p[0] = 3,   dist[0] = 2.000000
+p[1] = 1,   dist[1] = 0.000000
+p[2] = 1,   dist[2] = 1.000000
+p[3] = 1,   dist[3] = 1.000000
+p[4] = 3,   dist[4] = 2.000000
+
+
+Test ¹ 0	(pD = 50%, pE = 50%, pl = 1, n = 4384)
+
+Fib:	0.092133
+priority_queue:	0.096016
+
+Test ¹ 1	(pD = 60%, pE = 60%, pl = 1, n = 4418)
+
+Fib:	0.096630
+priority_queue:	0.102116
+
+Test ¹ 2	(pD = 70%, pE = 70%, pl = 1, n = 4540)
+
+Fib:	0.109659
+priority_queue:	0.117673
+
+Test ¹ 3	(pD = 80%, pE = 80%, pl = 1, n = 1308)
+
+Fib:	0.016428
+priority_queue:	0.016949
+
+Test ¹ 4	(pD = 90%, pE = 90%, pl = 1, n = 1183)
+
+Fib:	0.014466
+priority_queue:	0.015208
+
+Test ¹ 5	(pD = 50%, pE = 0%, pl = 1, n = 3815)
+
+Fib:	0.003720
+priority_queue:	0.004977
+
+Test ¹ 6	(pD = 60%, pE = 1%, pl = 1, n = 3195)
+
+Fib:	0.008539
+priority_queue:	0.013665
+
+Test ¹ 7	(pD = 70%, pE = 2%, pl = 1, n = 1261)
+
+Fib:	0.003686
+priority_queue:	0.004574
+
+Test ¹ 8	(pD = 80%, pE = 3%, pl = 1, n = 2733)
+
+Fib:	0.009475
+priority_queue:	0.014534
+
+Test ¹ 9	(pD = 90%, pE = 4%, pl = 1, n = 4902)
+
+Fib:	0.025877
+priority_queue:	0.032015
+
+Test ¹ 10	(pD = 0%, pE = 50%, pl = 1, n = 4908)
+
+Fib:	0.104814
+priority_queue:	0.113284
+
+Test ¹ 11	(pD = 1%, pE = 60%, pl = 1, n = 372)
+
+Fib:	0.001338
+priority_queue:	0.001818
+
+Test ¹ 12	(pD = 2%, pE = 70%, pl = 1, n = 2439)
+
+Fib:	0.046201
+priority_queue:	0.047036
+
+Test ¹ 13	(pD = 3%, pE = 80%, pl = 1, n = 2947)
+
+Fib:	0.061375
+priority_queue:	0.065728
+
+Test ¹ 14	(pD = 4%, pE = 90%, pl = 1, n = 537)
+
+Fib:	0.003009
+priority_queue:	0.003868
+
+Test ¹ 15	(pD = 5%, pE = 100%, pl = 1, n = 2968)
+
+Fib:	0.071287
+priority_queue:	0.076471
+
+Test ¹ 16	(pD = 91%, pE = 91%, pl = 7, n = 1641)
+Fib:	0.026188
+priority_queue:	0.029829
+
+Test ¹ 17	(pD = 92%, pE = 92%, pl = 7, n = 4834)
+Fib:	0.147898
+priority_queue:	0.145707
+
+Test ¹ 18	(pD = 93%, pE = 93%, pl = 7, n = 681)
+Fib:	0.004983
+priority_queue:	0.008694
+
+Test ¹ 19	(pD = 94%, pE = 94%, pl = 7, n = 3041)
+Fib:	0.071297
+priority_queue:	0.073636
+
+Test ¹ 20	(pD = 95%, pE = 95%, pl = 7, n = 3404)
+Fib:	0.080820
+priority_queue:	0.087202
+
+Test X	(pD = 90%, pE = 90%, pl = 5, n = 5000)
+Fib:	0.139543
+priority_queue:	0.152922
+
+Test full	(pD = 0%, pE = 100%, pl = 1, n = 5000)
+Fib:	0.149383
+priority_queue:	0.158422
+
+Test bamboo	(pD = 0%, pE = 0%, pl = 1, n = 5000)
+Fib:	0.002820
+priority_queue:	0.008783

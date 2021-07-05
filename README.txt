@@ -1,5 +1,4 @@
-# Fibonacci Heap
- Dijkstra's algoritm with Fibonacci Heap and comparison with Priority Queue. 2016 homework project.
+Personal HW. Dijkstra's algoritm with Fibonacci Heap and comparison with Priority Queue.
 
 Version 4.0.
 
